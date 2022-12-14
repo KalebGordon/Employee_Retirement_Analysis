@@ -8,6 +8,8 @@ Our analysis of the individuals eligible to retire found that:
 - There are a total of 90,398 employees who are eligible to retire, meaning that we must soon find candidates to fill those roles. 
 - Of those 90,398 employees, 50,842 are senior employees (Senior Engineer and Senior Staff), 9,285 are Engineers, 7,636 are Staff, 3,603 are Technique Leaders, 1,090 are Assistant Engineers, and two are Managers. 
 
+![](https://github.com/KalebGordon/Pewlett_Hackard/blob/main/Resources/Images/retiring_titles.PNG)
+
 
 Our analysis of the individuals eligible for the mentorship program found that:
 - There are a total of 1,549 employees available for the mentorship program.
