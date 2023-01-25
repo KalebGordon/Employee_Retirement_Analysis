@@ -1,4 +1,4 @@
-# Pewlett_Hackard
+# Employee_Retirement_Analysis
 
 ## Overview
 Pewlett Hackard is looking to offer a retirement package to certain individuals that meet the criteria, as well as thinking about which positions will need to be filled in the near future. In order to not leave thousands of vacant positions, Bobby, an up-and-coming HR analyst, and us must find some answers. We need to find who will be retiring soon and how many positions will be left open. Using SQL and six CSV files provided by Pewlett Hackard, we had to perform an analysis of the employees to find the answers to these questions. 
